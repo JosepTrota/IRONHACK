@@ -67,7 +67,7 @@ The maps with all the clusters can be roughly seen here:
 
 ***
 
-**For further explanation, and to see the end product of the project, which is a presentation, go [here](https://slides.com/jostrota/minimal).**
+**For further explanation, and to see the end product of the project (which is a presentation) go [here](https://slides.com/jostrota/minimal).**
 
 ***
 
