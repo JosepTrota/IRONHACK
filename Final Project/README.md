@@ -82,7 +82,7 @@ Conclusions from the data:
 * USA AND CHINA - DIFFERENT BUT SIMILAR: They share a cluster by themselves in the final graphic, and they each have their own lonely cluster in the full dataset clusters (as India does too).
 
 
-#### SWOT ABOUT THE PROJECT
+#### FINAL SWOT ABOUT THE PROJECT
 
 Strengths | Weaknesses | Opportunities | Threats
 --- | --- | --- | ---
