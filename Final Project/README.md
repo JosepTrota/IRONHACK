@@ -3,7 +3,7 @@
 
 ***
 
-What are neighboring countries? The answer seems obvious at first: countries sharing a frontera. But frontiers have been slowly getting more complex and even non material. First sea travel, then air travel, then space and the world wide web...
+What are neighboring countries? The answer seems obvious at first: countries sharing a border. But border have been slowly getting more complex and even non material. First sea travel, then air travel, then space and the world wide web...
 
 But we can try to discover which countries share some traits, in terms of subjective experiences.
 
