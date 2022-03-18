@@ -32,7 +32,7 @@ As you can see, there is some criticism to be made:
 
 ***
 
-To show the most objective clusters possible, but taking into account some subjective data, we can look up some international indexes. We decided to focus on those pairs of index - source:
+To show the most objective clusters possible, but taking into account some subjective data, we can look up some international indexes. We decided to focus on the following ones:
 
 INDEX | SOURCE | POSSIBLE SOURCE BIAS
 --- | --- | ---
