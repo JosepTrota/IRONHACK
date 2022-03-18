@@ -3,7 +3,7 @@
 
 ***
 
-What are neighboring countries? The answer seems obvious at first: countries sharing a border. But border have been slowly getting more complex and even non material. First sea travel, then air travel, then space and the world wide web...
+What are neighboring countries? The answer seems obvious at first: countries sharing a border. But borders have been slowly getting more complex and even non material. First sea travel, then air travel, then space and the world wide web...
 
 But we can try to discover which countries share some traits, in terms of subjective experiences.
 
@@ -11,16 +11,16 @@ What if a neighborhood of them is just a cluster of countries in which the exper
 
 ***
 
-Since the mid 90s, a couple of political scientist, the american Ronald Inglehart and the german Christian Welzel, tried to organize clusters of countries around two different axis comprehending some country values: one mesuring the ratio of traditional vs secular values, and the other mesuring the ratio of survival vs self expression values.
+Since the mid 90s, two political scientist, the North american Ronald Inglehart and the german Christian Welzel, tried to organize clusters of countries around two different axis comprehending some country values: one mesuring the ratio of traditional vs secular values, and the other mesuring the ratio of survival vs self expression values.
 
-Their current actualized map (from 2020) is this one:
+Their current updated map (from 2020) is the following one:
 
 ![alt text](https://github.com/JosepTrota/IRONHACK/blob/main/Final%20Project/Images%20and%20gifs/Inglehart%20-%20Welzel%20cultural%20map.jpg "You discovered the title remainder text. Hooray! You can have a cookie ;)")
 
-As you can see, there are some criticism to be made:
+As you can see, there is some criticism to be made:
 * The axis consist of somewhat loose features
 * There are clear outliers on the clusters
-* There is no cluster consistency - they are sometimes geographic, sometimes religious, in anterior designs sometimes political...
+* There is no cluster consistency - they are sometimes geographic, sometimes religious, in previous designs sometimes political...
 * Could be ethnocentric or maybe even racist, implying that the countries at the top right have the *correct* values, and the bottom left have the least desirable ones (note that Inglehart is american and Welzel from the western part of Germany, both white males, with high academic profiles, so some bias could be there)
 
 **How can we try to reduce bias and improve the creation of "neighbor countries"?**
@@ -34,17 +34,17 @@ As you can see, there are some criticism to be made:
 
 To show the most objective clusters possible, but taking into account some subjective data, we can look up some international indexes. We decided to focus on those pairs of index - source:
 
-* IW cultural axis: world values survey
-*	unpeacefulness: Institute for Economics and Peace
-*	eco_footprint: Global Footprint Network
-*	education: UNESCO
-*	nominal_GDP: International Monetary Fund
-*	inequality: CIA World Factbook - 2021
-*	life_expectancy: the world bank
-*	religion (all): CIA World Factbook - 2021
-*	happiness: world happiness report
+* Inglehart Welzel cultural axis: world values survey
+*	Unpeacefulness: Institute for Economics and Peace
+*	Ecological footprint: Global Footprint Network
+*	Education: UNESCO
+*	Nominal GDP: International Monetary Fund
+*	Inequality: CIA World Factbook
+*	Life expectancy: the world bank
+*	Religion: CIA World Factbook
+*	Happiness: world happiness report
 
-Of course, those sources have multiple bias flags that could threaten the validity of the data, but those are the best source for each kind of data, if you want to take the same metrics for a feature from the same place.
+Naturally, those sources have multiple bias flags that could threaten the validity of the data, but those are the best sources for each kind of data, if we want to take the same metrics for every country from the same place.
 
 ***
 
@@ -52,7 +52,7 @@ Of course, those sources have multiple bias flags that could threaten the validi
 
 ***
 
-After lots and lots of exploratory data analysis and cleaning, we decided to use the KMeans clustering method, trying to use elbow method and silhouette score to validate the number of clusters in each case. We must say that the elbow method rarely gave us relevant information, and we used the silhouette score to decide which was the best number to pick.
+After lots and lots of exploratory data analysis and cleaning, we decided to use the KMeans clustering method, trying to use elbow method and silhouette score to validate the number of clusters in each case. It has to be aknowledged that the elbow method rarely gave us relevant information, and we used the silhouette score to decide which was the best number to pick each time.
 
 
 ***
@@ -81,14 +81,15 @@ Or try the [tableau published maps](https://public.tableau.com/app/profile/josep
 Conclusions from the data:
 
 * "WESTERN" COUNTRIES (WESTERN EUROPE, CANADA, AUSTRALIA) ARE VERY CONSISTENT: Spain, France, Germany, Norway, Switzerland, Sweden... Seem to consistenly be in the same cluster, very different than any other countires, and always joined by Australia and Canada. Sometimes Japan and the US are in this cluster as well.
-* "EASTERN" COUNTRIES ARE USUALLY IN THE SAME CLUSTER: Russia seems to have a tendency to always be in the same neighborhood as some other european eastern countries. Som of those countries in the middle of the east and the west of Europa always seem to pivot between west and east clusters.
-* USA AND CHINA - DIFFERENT BUT SIMILAR: They share a cluster by themselves in the final graphic, and they each have their own lonely cluster in the full dataset clusters (as India does too).
+* "EASTERN" COUNTRIES ARE USUALLY IN THE SAME CLUSTER: Russia seems to have a tendency to always be in the same neighborhood as some other eastern european countries. Som of those countries in the middle of the east and the west of Europa always seem to pivot between west and east clusters.
+* USA AND CHINA - DIFFERENT BUT SIMILAR: They share a cluster only by themselves in the final graphic, and they each have their own lonely cluster in the full dataset clusters (as India does too).
+* ALL OTHER COUNTRIES TEND TO BE SCATTERED: other clusters didn't sharea common form in lots of maps, so depending on the data they may differ a lot from each other.
 
 
 #### FINAL SWOT ABOUT THE PROJECT
 
 Strengths | Weaknesses | Opportunities | Threats
 --- | --- | --- | ---
-There are lots of important indexes | Data may be easyly unreliable (questionable sources, no data from some countries, the data is from a survey...) | Data improvement can easily lead to cluster improvement | Maybe there was important data left out, or there was some conceptual overfitting... difficult to assess.
-The use of KMeans reduces the bias | Lots of nulls in the data, especially in Africa | Different readings through time can show us growing / shrinking pace of countries, so we could se which countries are *evolving* at similar paces | Subjective data is complex and not easily measured
-The final clusters are much more complete that the Inglehart Welzel map | Visualization, when having more than 3 or worse, more than 5 dimensions, becomes much more difficult (it is great to have a map to represent the data in) | | A survey is not the most objective method
+There are lots of important indexes | Data may be easyly unreliable (questionable sources, no data from some countries, the data is from a survey...) | Data improvement can easily lead to cluster improvement | Maybe there was important data left out, or there was some conceptual overfitting... It is difficult to assess.
+The use of KMeans reduces the bias | Lots of null values in the data, especially in Africa | Different readings through time can show us growing / shrinking pace of countries, so we could see which countries are *evolving* at similar paces | Subjective data is complex and not easily measured
+The final clusters are more complex than the Inglehart Welzel map | Visualization, when having more than 3 dimensions (or worse, more than 5), becomes much harder (it is great to have a map to represent the data in) | | Surveys are not the most objective method
