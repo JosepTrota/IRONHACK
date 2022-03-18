@@ -43,7 +43,7 @@ Education | UNESCO | part of the UN, seems robust
 Nominal GDP | International Monetary Fund | much more acurate for industrialized countries
 Inequality | CIA World Factbook | tied to US government, gini index used because other indexes (maybe more accurate) have less data
 Life expectancy | World Bank | could be ethnocentric, seems robust
-Religion | CIA World Factbook | tied to US government, data from minority groups always imputed - capping at a lowest 5000
+Religion | CIA World Factbook | tied to US government, data from minority groups always imputed - lowest value always being 5000
 Happiness | World Happiness Report | tied to the UN, possibly ethnocentric, the data is difficult to quantify
 
 Naturally, those sources having bias flags that could threaten the validity of the data is not good, but those are the best sources for each kind of data if we want to have only one source for each feature.
