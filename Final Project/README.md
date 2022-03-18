@@ -34,17 +34,19 @@ As you can see, there is some criticism to be made:
 
 To show the most objective clusters possible, but taking into account some subjective data, we can look up some international indexes. We decided to focus on those pairs of index - source:
 
-* Inglehart Welzel cultural axis: world values survey
-*	Unpeacefulness: Institute for Economics and Peace
-*	Ecological footprint: Global Footprint Network
-*	Education: UNESCO
-*	Nominal GDP: International Monetary Fund
-*	Inequality: CIA World Factbook
-*	Life expectancy: the world bank
-*	Religion: CIA World Factbook
-*	Happiness: world happiness report
+INDEX | SOURCE | POSSIBLE SOURCE BIAS
+--- | --- | ---
+Inglehart Welzel cultural axis | World Values Survey | inconsistent dimensions, possibly ethnocentrist
+Unpeacefulness | Institute for Economics and Peace | tied to the UN, Domestic violence not accounted
+Ecological footprint | Global Footprint Network | could understimate overuse of planet's resources (not relevant for this case), seems robust
+Education | UNESCO | part of the UN, seems robust
+Nominal GDP | International Monetary Fund | much more acurate for industrialized countries
+Inequality | CIA World Factbook | tied to US government, gini index used because other indexes (maybe more accurate) have less data
+Life expectancy | World Bank | could be ethnocentric, seems robust
+Religion | CIA World Factbook | tied to US government, data from minority groups always imputed - capping at a lowest 5000
+Happiness | World Happiness Report | tied to the UN, possibly ethnocentric, the data is difficult to quantify
 
-Naturally, those sources have multiple bias flags that could threaten the validity of the data, but those are the best sources for each kind of data, if we want to take the same metrics for every country from the same place.
+Naturally, those sources having bias flags that could threaten the validity of the data is not good, but those are the best sources for each kind of data if we want to have only one source for each feature.
 
 ***
 
