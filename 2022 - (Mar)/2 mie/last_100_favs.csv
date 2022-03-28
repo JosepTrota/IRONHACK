@@ -1,0 +1,101 @@
+,id,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,Genres
+0,4cQoLN88Czh68CjxwcUPVD,0.197,0.754,5,-6.854,1,0.0539,5.89e-05,0.711,0.113,0.108,121.08,673667,4,"['boston metal', 'modern hard rock', 'post-doom metal', 'post-metal', 'progressive doom', 'psychedelic doom', 'space rock', 'stoner metal', 'stoner rock']"
+1,4RXnTpeP4CvkbGtOx6sN3v,0.296,0.579,2,-5.83,1,0.0418,0.00383,0.0,0.108,0.307,132.895,341234,4,"['art punk', 'neo-psychedelic']"
+2,61tdtfGUitLRcRFQXYJEqv,0.388,0.658,11,-7.991,0,0.0744,0.0123,0.878,0.0895,0.104,130.016,357653,4,"['instrumental post-rock', 'post-rock']"
+3,5l4eNAXmYK9uLx5P2RMPq9,0.244,0.759,11,-4.955,0,0.0863,0.0192,9.06e-05,0.106,0.0566,200.131,261675,3,['avant-rock']
+4,22aqrz9Kehs2rL5u7HYypu,0.284,0.74,1,-9.477,1,0.0658,0.0024,0.113,0.391,0.289,98.577,381347,4,['djent']
+5,5jnvGKrWWmV6sikCueDxv9,0.415,0.621,0,-13.362,1,0.0547,0.0684,0.689,0.373,0.187,106.674,291093,4,"['argentine rock', 'latin rock', 'rock en espanol', 'rock nacional']"
+6,521Wzy51XJrZspnnC50rCW,0.476,0.918,5,-3.444,1,0.0428,0.000816,0.000178,0.314,0.332,107.141,287453,4,['el paso indie']
+7,1zcV54IyIHMrIDhTytt3b2,0.2,0.511,1,-3.303,1,0.0516,0.000295,0.825,0.41,0.0392,124.219,453400,4,[]
+8,0sC2oPYEKZPJr8hdVvI1jy,0.558,0.839,10,-7.638,0,0.0945,0.467,0.0728,0.192,0.791,177.822,177200,3,"['drill and bass', 'glitch pop', 'japanese experimental', 'japanese idm', 'shibuya-kei']"
+9,4AObaBiZzsJgmr5zepWRvf,0.819,0.336,4,-13.857,1,0.249,0.419,0.131,0.143,0.434,95.233,223987,4,"['art pop', 'chamber pop', 'collage pop', 'folktronica', 'indie rock']"
+10,05MqkhneIhKSPJ76FBSULY,0.596,0.428,11,-11.389,0,0.0371,0.177,0.885,0.134,0.55,127.492,372320,3,"['alternative dance', 'experimental pop', 'indie rock', 'modern alternative rock', 'modern rock', 'new rave', 'shimmer pop']"
+11,2oLjhx7w8Hyd3gry9cCXr7,0.358,0.167,7,-16.0,0,0.0354,0.899,0.96,0.103,0.601,144.561,138707,4,"['classical', 'german romanticism', 'late romantic era']"
+12,3tgA5mQPC5YqgRJLhBOSvm,0.646,0.898,1,-4.178,1,0.0793,0.00161,0.778,0.177,0.615,127.002,393660,4,"['progressive jazz fusion', 'progressive post-hardcore']"
+13,1z6zJqayfsAiiYtQ3minb7,0.664,0.644,7,-9.334,0,0.0352,0.531,0.661,0.251,0.646,79.526,298373,4,"['big beat', 'downtempo', 'electronica', 'hip hop', 'trip hop', 'turntablism']"
+14,26xJxjKLwjg3nmEvZnZlxB,0.623,0.811,10,-7.075,0,0.0437,0.0318,0.817,0.114,0.671,121.968,324669,4,"['electronic rock', 'glitch pop', 'modern alternative rock', 'supergroup']"
+15,1QdxeehtKfOPjv4c4u9Dfp,0.487,0.529,4,-8.1,0,0.0276,0.386,0.858,0.725,0.0393,97.966,372293,4,"['alternative metal', 'art rock', 'progressive metal', 'progressive rock', 'symphonic rock']"
+16,7qY6qAeU9rjFKXbfMOeopx,0.58,0.587,6,-14.527,0,0.305,0.716,0.845,0.1,0.574,149.013,366970,4,"['art pop', 'electronica', 'glitch pop', 'indie rock', 'oxford indie']"
+17,3xRH6FPVtheDyNla3T1FE7,0.511,0.525,8,-4.595,0,0.183,0.604,0.0,0.111,0.661,139.885,204317,3,"['indie r&b', 'pop r&b', 'pop rap', 'r&b']"
+18,7aT0lsCbzs9Bllb8cb4z1i,0.748,0.842,0,-2.841,0,0.0576,0.0155,1.84e-06,0.0971,0.451,87.488,271432,4,"['drum and bass', 'jungle', 'uk alternative hip hop', 'uk dnb']"
+19,4iXQIgkgGXlCHOvQ25zQdn,0.295,0.812,1,-6.601,1,0.0526,0.28,0.963,0.127,0.239,76.128,279185,4,['experimental ambient']
+20,4pWDWC55AKZpQ08FSysq2C,0.462,0.668,0,-8.139,1,0.0439,0.000436,0.00192,0.0969,0.0633,129.36,208867,4,"['avant-garde metal', 'supergroup']"
+21,7gCuKTyBb5nurNalzs0Hvp,0.487,0.669,9,-6.473,1,0.232,0.0145,0.00349,0.102,0.0573,172.026,167253,3,"['brostep', 'complextro', 'edm', 'electro', 'pop rap']"
+22,1YZf1GdILd0DMhjLfPAd1Y,0.411,0.612,1,-8.354,1,0.125,0.0076,0.691,0.615,0.0963,136.592,254826,4,['filthstep']
+23,3E3aOcq8Ep6MoLHVEvN7I6,0.592,0.795,7,-4.716,1,0.415,0.0893,0.00259,0.036,0.644,79.408,194680,3,['filthstep']
+24,1Tij7xKSnd6A1NukAI7xg2,0.591,0.846,5,-6.45,1,0.142,0.0911,0.526,0.193,0.12,170.052,215000,4,['filthstep']
+25,1HOZHrvPp3CwvmOz2L5hng,0.7,0.761,1,-3.16,1,0.271,0.00603,6.2e-05,0.0267,0.571,110.061,187662,4,['filthstep']
+26,79uhSnEq3J7ww5v7yxpCvZ,0.608,0.829,1,-3.577,1,0.0744,0.0834,0.000119,0.171,0.273,142.073,209640,4,['filthstep']
+27,7K96ROmIeF0rcyNr8DpHIh,0.488,0.524,2,-9.139,1,0.0339,0.00732,0.576,0.172,0.488,113.004,208110,4,['british math rock']
+28,6A8IR5kVgXncIBC9W0YHjL,0.501,0.202,9,-21.447,1,0.0682,0.219,0.716,0.111,0.134,136.622,307400,4,"['art rock', 'instrumental rock', 'jazz fusion', 'progressive rock', 'symphonic rock']"
+29,0vADPIaJHGwnWFvSgrM123,0.437,0.831,8,-4.784,1,0.0586,0.00502,0.457,0.195,0.377,167.79,300093,4,"['shibuya-kei', 'trip hop']"
+30,7vUbnU8XibkKccpuoyWqIm,0.713,0.675,7,-9.751,1,0.0366,0.0177,0.856,0.0851,0.845,95.997,275173,4,"['alternative dance', 'balearic', 'electronica', 'new rave', 'norwegian space disco', 'nu disco']"
+31,14246VCxRDGZHqlMlqWSz4,0.601,0.938,1,-4.382,1,0.282,0.0225,0.0,0.0508,0.762,87.129,190261,4,"['conscious hip hop', 'east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'queens hip hop', 'rap']"
+32,4A0ZIhDd8607zlXZzxAl9A,0.343,0.985,1,-3.601,1,0.227,0.000604,0.816,0.295,0.595,178.039,107147,3,"['avant-garde metal', 'breakcore', 'cybergrind', 'french metal', 'opera metal']"
+33,5gXKwH68RrWzpf6DdPa3vM,0.605,0.867,5,-5.362,1,0.0847,0.0264,0.000182,0.877,0.377,105.049,186286,3,"['avant-garde metal', 'breakcore', 'cybergrind', 'french metal', 'opera metal']"
+34,6DUvpC2bFViefEhZ65NGgk,0.513,0.891,2,-5.286,0,0.0761,0.0652,0.0536,0.2,0.0395,106.018,302374,3,"['avant-garde metal', 'breakcore', 'cybergrind', 'french metal', 'opera metal']"
+35,6QN0mXlZOwfQoFs5yu55Pg,0.525,0.89,2,-4.222,1,0.0557,0.00135,0.813,0.0822,0.604,160.083,193067,4,"['avant-garde metal', 'breakcore', 'cybergrind', 'french metal', 'opera metal']"
+36,79xLxZrpdURjzJmdHKB85a,0.579,0.696,9,-5.812,1,0.0363,0.000964,0.206,0.122,0.0397,109.992,263520,4,"['avant-garde metal', 'breakcore', 'cybergrind', 'french metal', 'opera metal']"
+37,0F9qBosfnb42bRSSY2GmeV,0.698,0.975,1,-5.036,1,0.0758,0.000304,0.641,0.054,0.981,174.006,376040,4,[]
+38,3v2oAQomhOcYCPPHafS3KV,0.275,0.721,6,-6.222,0,0.0359,0.000702,0.821,0.0792,0.184,125.156,543453,4,"['disco house', 'edm', 'electro house', 'house', 'pop dance', 'progressive house', 'vocal house']"
+39,0GfHsEGSOZNYzCIvE0neUS,0.388,0.278,11,-7.398,1,0.0436,0.0755,0.000803,0.112,0.23,130.458,276512,3,"['alternative dance', 'electronica', 'filter house', 'new rave']"
+40,6o0ivTBCUbb5bPmDnVm7is,0.459,0.559,0,-12.547,0,0.034,0.277,0.116,0.105,0.463,92.432,313693,3,"['alternative rock', 'art pop', 'art rock', 'chamber psych', 'electronica', 'experimental', 'experimental pop', 'experimental rock', 'indietronica', 'neo-psychedelic', 'noise pop']"
+41,76JhicgPtW4zbN72tpnMyA,0.387,0.599,4,-8.277,0,0.0301,0.00365,0.789,0.134,0.443,137.936,357373,4,"['alternative rock', 'art pop', 'dream pop', 'nu gaze', 'reading indie', 'rock', 'shoegaze']"
+42,7K8mX41Nub7AzBt1RwwE6d,0.235,0.44,7,-16.609,1,0.0406,0.0106,0.119,0.0947,0.196,175.747,355533,3,"['alternative rock', 'art rock', 'dream pop', 'emo', 'experimental', 'experimental rock', 'indie rock', 'louisville underground', 'math rock', 'post-hardcore', 'post-punk', 'post-rock', 'slowcore']"
+43,55y1H8Fiti2Pe04OYe0jk7,0.184,0.0917,0,-17.91,0,0.0407,0.832,0.94,0.112,0.0331,127.207,329133,3,"['dark jazz', 'drone']"
+44,7BCxQEDnH77jd8FTVTW2yO,0.318,0.589,4,-9.372,1,0.0579,0.723,0.902,0.0866,0.377,188.179,241480,4,"['indietronica', 'japanese alternative pop', 'shibuya-kei']"
+45,4oXvjsFTh7CP9MmHIqnMup,0.74,0.828,6,-7.427,1,0.0931,0.042,0.0712,0.239,0.767,95.363,216212,4,"['art pop', 'bay area indie', 'chamber pop', 'experimental', 'experimental indie rock', 'experimental pop', 'experimental rock', 'garage psych', 'indie rock', 'noise pop', 'noise rock']"
+46,2Ux3BFgzXm0YoD37nBQjJt,0.778,0.465,5,-10.196,0,0.0422,0.111,0.88,0.094,0.547,105.354,161853,4,"['ann arbor indie', 'funk rock', 'instrumental funk']"
+47,5blXK1R7GYL7gY2PVGxC90,0.371,0.957,6,-2.701,1,0.0392,0.00264,0.081,0.515,0.222,173.989,300800,4,"['australian dance', 'dancefloor dnb', 'drum and bass']"
+48,082kAKzYIqTT9ULcqkBxvX,0.418,0.927,1,-7.248,1,0.228,0.0565,0.00178,0.882,0.353,149.958,210966,4,"['contemporary jazz', 'funk rock', 'jazz fusion', 'modern funk', 'progressive jazz fusion']"
+49,4Icraow75cjU3nlUNq3631,0.292,0.394,10,-15.824,0,0.0451,0.835,0.559,0.39,0.199,65.707,196364,4,['la pop']
+50,5ciCKiLGTIgfHKV4MxjInt,0.425,0.518,2,-13.126,1,0.0375,0.762,0.142,0.107,0.588,100.584,362997,3,"['indie soul', 'uk alternative pop']"
+51,1ZvPhMQnCPrV2rBHQvdD5y,0.555,0.112,1,-29.06,1,0.0391,0.868,0.955,0.0988,0.7,83.396,255000,4,"['fourth world', 'indie jazz', 'indie soul']"
+52,50oZCMNd6LKWKj0wHbyu2f,0.797,0.908,1,-4.505,1,0.274,0.00487,0.0209,0.0632,0.81,162.007,122222,4,['la pop']
+53,6SBxee2sZTBLCfNZYz0lww,0.559,0.718,2,-7.062,1,0.0715,0.246,0.75,0.114,0.203,138.013,212016,4,"['french post-rock', 'instrumental math rock', 'math rock']"
+54,2G44X1UdcwXBx0jRsQRmom,0.337,0.938,2,-10.099,1,0.387,0.802,0.466,0.317,0.371,73.997,371147,4,"['abstract hip hop', 'anti-folk', 'bay area indie', 'indie rock']"
+55,56wtwuD5xC1pLr7JNAadj9,0.816,0.388,4,-10.204,1,0.0365,0.102,0.883,0.0926,0.705,114.014,209325,4,"['indie game soundtrack', 'japanese vgm', 'video game music']"
+56,4I77FZbsed188zTLXXXWfQ,0.72,0.677,11,-9.203,0,0.0245,0.0749,9.65e-05,0.397,0.821,109.405,219646,4,"['indie garage rock', 'neo-psychedelic']"
+57,3zRR7Zxba4vWDU7Y3p9Gf8,0.353,0.755,6,-8.456,1,0.042,0.000436,0.000794,0.104,0.602,133.849,267173,3,"['alternative emo', 'british math rock', 'dreamo', 'emo', 'math rock', 'midwest emo', 'oxford indie', 'progressive post-hardcore']"
+58,1BVc3nm9nJpqIbCumwunw1,0.51,0.37,4,-10.357,0,0.107,0.067,0.178,0.165,0.329,66.441,249133,4,"['boston indie', 'boston rock']"
+59,6PLFErYTBZjz3CS2ZGVzBi,0.359,0.674,7,-8.621,0,0.0285,0.734,0.894,0.105,0.682,116.991,331187,4,"['contemporary jazz', 'israeli jazz', 'jazz', 'jazz double bass', 'jazz fusion', 'jazz trumpet']"
+60,6i0XeW4PstexSITqHfm3FH,0.519,0.389,5,-9.807,1,0.0304,0.514,0.153,0.1,0.107,121.802,330373,4,"['downtempo', 'electronica', 'nu jazz', 'trip hop']"
+61,5aJph9adNgkyW6vFn66ils,0.733,0.312,2,-7.673,0,0.0331,0.113,0.766,0.122,0.176,128.106,217500,4,['downtempo bass']
+62,5PTidgogDxG9GIEcjKJqMH,0.189,0.589,11,-8.862,1,0.0574,0.00787,0.049,0.0869,0.141,106.338,239200,3,"['indie jazz', 'indie soul', 'wonky']"
+63,2WXelEIMTkDX8VENGdbHfk,0.705,0.636,11,-12.483,0,0.037,0.724,0.777,0.116,0.74,93.392,219727,4,[]
+64,0vp09QgBhShrQOL2w7P8k4,0.456,0.461,2,-11.337,1,0.0593,0.0978,0.815,0.102,0.119,155.008,290202,4,"['ambient', 'ambient idm', 'chamber psych', 'compositional ambient', 'electronica', 'intelligent dance music', 'microhouse', 'neo-classical']"
+65,31BQPqg0PGatf52fIeu3Hh,0.591,0.877,1,-6.816,1,0.0573,1.95e-05,0.911,0.104,0.163,109.944,210560,4,"['comic', 'comic metal']"
+66,56C7rBk3rrZ0bsm029Esw0,0.246,0.802,1,-6.207,1,0.0627,0.000225,0.253,0.142,0.203,180.293,260227,3,"['comic', 'comic metal']"
+67,5tvdxJ8JpA9u4lKsLcUYKL,0.64,0.821,1,-7.522,1,0.0422,0.000331,0.919,0.273,0.594,105.059,257173,4,"['comic', 'comic metal']"
+68,5ghMfHMHakVS0omjj2cBSA,0.407,0.863,0,-7.968,1,0.0704,0.000643,0.591,0.128,0.519,113.98,204360,3,"['comic', 'comic metal']"
+69,27MkFIR0Ft1VM5jh039GI5,0.501,0.916,10,-4.405,0,0.0372,2.76e-05,0.148,0.326,0.375,75.985,343520,4,"['comic', 'comic metal']"
+70,0YltsFLyN9ZNEGQiuSzppo,0.414,0.843,0,-5.654,0,0.0541,0.0347,0.643,0.343,0.518,97.115,493097,4,['neo-psychedelic']
+71,0QbV35CKd6pEG6NurX3ckZ,0.295,0.53,9,-7.947,1,0.0433,0.629,0.954,0.107,0.0628,166.015,438081,4,"['contemporary jazz', 'contemporary post-bop', 'jazz', 'jazz fusion', 'jazz piano', 'modern jazz piano']"
+72,6j6NF0hzixG0yHdWM0OEZg,0.627,0.924,11,-6.873,0,0.0594,0.00013,0.277,0.561,0.8,100.065,288313,4,"['jazztronica', 'ninja', 'nu jazz', 'trip hop']"
+73,06CUyVD4i6YQ8X9dXC7mI6,0.605,0.666,10,-8.736,0,0.0272,0.176,0.358,0.143,0.55,76.003,162434,4,['socal indie']
+74,0ZxWG91nxZcCsEUd6ykc6i,0.46,0.624,7,-11.954,1,0.0446,0.068,0.05,0.059,0.704,128.918,300200,4,"['album rock', 'art rock', 'classic rock', 'country rock', 'folk rock', 'mellow gold', 'psychedelic rock', 'rock', 'roots rock', 'soft rock', 'yacht rock']"
+75,2wNK1PjIS9NbBIchakaL7k,0.305,0.77,2,-6.694,1,0.0276,0.062,0.203,0.0976,0.374,107.367,729680,4,"['alternative dance', 'indie rock', 'indietronica', 'modern rock', 'rock']"
+76,6PFFOfhu61KGhOEjhdePIS,0.406,0.7,1,-9.366,1,0.216,0.148,0.216,0.187,0.511,163.953,427987,4,"['alternative r&b', 'contemporary jazz', 'indie jazz', 'indie soul', 'jazz', 'modern jazz piano', 'neo soul']"
+77,5NHyNFYxLRifc2kI1FqDUP,0.555,0.71,10,-5.561,0,0.0322,0.00119,0.0411,0.0465,0.924,119.372,288267,3,"['argentine rock', 'latin alternative', 'latin rock', 'rock en espanol']"
+78,058ko08nDcxWAEXJXkDNYC,0.566,0.957,9,-6.175,0,0.134,0.0304,0.935,0.292,0.541,167.26,381413,4,"['abstract', 'drill and bass', 'electro', 'electronica', 'intelligent dance music', 'microhouse', 'ninja', 'trip hop']"
+79,7bgtelfoppWqHtwkQudvod,0.677,0.623,1,-8.045,1,0.0394,0.00245,0.931,0.21,0.105,145.866,330333,4,"['ambient', 'big beat', 'electronica', 'intelligent dance music', 'scottish electronic', 'trip hop']"
+80,4bNnVPKnJG4djQQF3PWnR5,0.621,0.556,10,-17.418,0,0.0662,0.061,0.876,0.0775,0.448,110.093,320560,3,[]
+81,6PBup8MwYsnZJBFQ0auK4Z,0.802,0.454,0,-11.166,0,0.0375,0.425,0.459,0.0511,0.444,108.007,549128,4,"['south african alternative', 'south african electronic']"
+82,7hjogzkYgPMCJcBhScXwyI,0.339,0.449,11,-9.206,1,0.0355,0.0016,0.175,0.0799,0.0881,120.208,246856,4,"['modern jazz trio', 'progressive jazz fusion']"
+83,5lQwxQkZcJLeyS7d2adJUa,0.39,0.331,0,-12.09,0,0.0289,0.871,0.948,0.104,0.185,110.018,287333,3,"['british jazz', 'compositional ambient', 'contemporary jazz', 'electronica', 'indie jazz', 'jazz quartet', 'neo-classical', 'new tribe', 'nu jazz']"
+84,5x5mnLHeEDJnnGr4lfDzL6,0.602,0.72,11,-7.681,0,0.0418,0.0193,4.09e-05,0.427,0.448,137.032,211053,4,['progressive metal']
+85,7pQnbDYJNf05IBlocRDzbV,0.513,0.445,2,-12.312,0,0.0323,0.0425,0.00582,0.223,0.124,150.017,246227,4,['progressive metal']
+86,1exUyM6BFUAxBzt1PMOhQX,0.657,0.561,11,-10.334,0,0.0288,0.00966,0.165,0.112,0.4,131.954,384213,4,['progressive metal']
+87,01BgJEU3KP23gWD8PyoHLw,0.537,0.636,5,-8.3,0,0.0311,0.0822,0.0029,0.0937,0.355,130.043,268693,3,['kent indie']
+88,1mov8FlmSqQq8ShObxHGwL,0.645,0.745,3,-8.594,0,0.0425,0.288,0.53,0.11,0.679,98.024,241413,4,['kent indie']
+89,1EUeDFq2zNP784GPaRs9aH,0.384,0.99,7,-3.826,1,0.0601,0.00474,0.036,0.363,0.663,193.93,247989,4,"['alternative dance', 'big beat', 'breakbeat', 'electronica', 'new rave', 'rave']"
+90,7ww9E2j8b758ycQoXeLdvS,0.63,0.27,0,-16.041,1,0.0433,0.786,0.523,0.144,0.692,106.984,365373,4,"['latin jazz', 'musica tradicional cubana', 'world']"
+91,3f27mtLKBWGcGC5VXbMNji,0.321,0.753,1,-6.606,1,0.0376,0.0545,0.941,0.127,0.186,133.936,328057,5,['british math rock']
+92,6eTteH1zyZeQKZ2Mu7VC5d,0.63,0.393,9,-17.663,0,0.0497,0.445,0.0141,0.0968,0.543,133.438,373947,4,"['classic japanese jazz', 'japanese jazz']"
+93,5AmYQzTbgfxn9pMsRHC1Br,0.694,0.893,11,-4.673,1,0.0746,0.208,0.849,0.0869,0.641,90.968,256840,4,
+94,5kZHE8Ej3Ev5M6bw53prYa,0.677,0.839,10,-8.134,1,0.038,0.158,0.0968,0.164,0.563,115.011,214676,4,"['glitch hop', 'intelligent dance music', 'ninja', 'wonky']"
+95,3UYeU6M7cOG4g2PlAOTvz9,0.455,0.341,0,-8.315,0,0.0269,0.737,4.67e-05,0.0958,0.165,57.157,324320,4,"['alternative metal', 'alternative rock', 'blues rock', 'modern rock', 'palm desert scene', 'rock', 'stoner metal', 'stoner rock']"
+96,5fb0p81SAZBkZEvmLAfGKz,0.587,0.874,11,-3.597,1,0.0548,0.0546,0.000452,0.0511,0.469,95.012,291400,4,"['alternative metal', 'alternative rock', 'blues rock', 'modern rock', 'palm desert scene', 'rock', 'stoner metal', 'stoner rock']"
+97,0MHHAIjPAd3OSfBS3H0fPg,0.187,0.855,11,-4.316,0,0.0624,0.000531,0.0204,0.361,0.257,160.892,235400,3,"['alternative metal', 'alternative rock', 'blues rock', 'modern rock', 'palm desert scene', 'rock', 'stoner metal', 'stoner rock']"
+98,06hBdrgjUendZyH9U1WV22,0.602,0.849,11,-6.602,1,0.1,0.636,3.18e-05,0.663,0.34,112.071,295587,4,"['alternative metal', 'alternative rock', 'blues rock', 'modern rock', 'palm desert scene', 'rock', 'stoner metal', 'stoner rock']"
+99,1D3YGmST01Ba0WRiT7THPG,0.516,0.78,8,-4.004,0,0.0364,0.00136,0.000715,0.11,0.899,116.794,235587,4,"['alternative metal', 'alternative rock', 'blues rock', 'modern rock', 'palm desert scene', 'rock', 'stoner metal', 'stoner rock']"
