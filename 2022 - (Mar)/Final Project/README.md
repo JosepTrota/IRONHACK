@@ -15,7 +15,7 @@ Since the mid 90s, two political scientist, the North american Ronald Inglehart 
 
 Their current updated map (from 2020) is the following one:
 
-![alt text]([https://github.com/JosepTrota/IRONHACK/blob/main/Final%20Project/Images%20and%20gifs/Inglehart%20-%20Welzel%20cultural%20map.jpg](https://github.com/JosepTrota/IRONHACK/blob/main/2022%20-%20(Mar)/Final%20Project/Inglehart%20-%20Welzel%20cultural%20map.jpg?raw=true) "You discovered the title remainder text. Hooray! You can have a cookie ;)")
+![alt text](https://github.com/JosepTrota/IRONHACK/blob/main/2022%20-%20(Mar)/Final%20Project/Inglehart%20-%20Welzel%20cultural%20map.jpg?raw=true)
 
 As you can see, there is some criticism to be made:
 * The axis consist of somewhat loose features
